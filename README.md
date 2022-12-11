@@ -2,7 +2,13 @@
 A python program that sends a one liner jokes read from file to your chat box in VRChat.
 
 ## Installation 
-You need python to run the program.  
+### Use latest release
+Run JokerOSC without python by downloading the latest release.  
+Make sure to download both `JokerOSC.exe` and `jokes.txt`. Store them in the same location.  
+You can find the [latest release here](https://github.com/JonShard/JokerOSC/releases)
+
+### Running the application with python
+You need python installed to run the JokerOSC this way.  
 It can be downloaded at [their offical website](https://www.python.org/downloads/).
 
 JokerOSC uses [Python-osc](https://github.com/attwad/python-osc) by attwad to send the message.  
