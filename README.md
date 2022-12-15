@@ -2,6 +2,13 @@
 A python program that sends a one liner jokes read from file to your chat box in VRChat.
 
 ## Installation 
+### Enable OSC in VRChat
+OSC may not enabled in VRChat by default. In order to enable VRChat to listen for the chatbox messages, follow these steps:
+1. Open the Action Menu / radial menu by holding the menu button in one of your hands.
+1. Select Options by pointing your joystick at it and clicking trigger.
+1. Select the Enable OSC toggle.
+1. Restart VRChat.
+
 ### Use latest release
 Run JokerOSC without python by downloading the latest release.  
 Make sure to download both `JokerOSC.exe` and `jokes.txt`. Store them in the same location.  
